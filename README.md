@@ -10,4 +10,4 @@
 📚 Currently learning about data analytics and AI ML engineering
 <br/>
 
-[![!Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&count_private=true&show_icons=true&theme-radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![!Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&count_private=true&show_icons=true&theme-tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
