@@ -19,6 +19,8 @@
 📚 Currently learning about data analytics and AI ML engineering<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Lorraine's GitHub Stats]([(https://stats-api-cyan.vercel.app/))
+
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
