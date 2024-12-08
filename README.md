@@ -19,7 +19,8 @@
 📚 Currently learning about data analytics and AI ML engineering<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Lorraine's GitHub Stats]([(https://stats-api-cyan.vercel.app/))
+
+[![Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 💻 Tech Stack
