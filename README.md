@@ -20,8 +20,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva)](https://github.com/anuraghazra/github-readme-stats)
-
+[![!Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
