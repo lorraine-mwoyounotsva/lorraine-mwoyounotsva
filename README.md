@@ -18,9 +18,13 @@
 👩🏾‍🎓 Studying Bachelor of Computer Science in Software Development Namibia University of Science and Technology<br/>
 📚 Currently learning about data analytics and AI ML engineering<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lorraine-mwoyounotsva&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorraine-mwoyounotsva&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center" style="margin: 20px;">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorraine-mwoyounotsva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lorraine-mwoyounotsva&theme=radical&hide_border=false)<br/>
+
+</div>
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
